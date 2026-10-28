@@ -1,0 +1,4 @@
+interface:
+  display_name: "Practice (TEM-4 Oral Critical Thinking)"
+  short_description: "TEM-4 oral debate practice with Chinglish feedback"
+  default_prompt: "Enable this skill and start a practice round when the user says the activation phrase 「开始练口语」 or asks for TEM-4 oral critical thinking practice."
